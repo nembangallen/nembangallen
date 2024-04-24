@@ -2,6 +2,6 @@
 
 ## I'm a Software Engineer !!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and listen music
+- 🌱 I’m currently learning Next.js 
+- 🥅 2024 Goals: Accomplish DevOps Concepts.
+- ⚡ Fun fact: I love to sing and listen to music
